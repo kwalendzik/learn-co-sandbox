@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+
+HundredGreatest :: CLI.new.call
